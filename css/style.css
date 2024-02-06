@@ -1,0 +1,25 @@
+
+:root{
+	--color-naranja:#ffaf70;
+	--color-titulos:#333;
+	--color-gris:#f2f4ec;
+	--color-hover-menu:#eee;
+	--bg-footer:#1a2130;
+	--bg-header:#ff5f6d;
+	--color-primario:#f75160;
+	--bg-sections:#faf9ff;
+}
+body{
+	
+	font-size: 14px;
+	color: #888;
+}
+h1,h2,h3,h4,h5,h6{
+	color: var(--color-titulos);
+}
+
+
+
+
+
+
